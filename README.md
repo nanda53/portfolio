@@ -28,8 +28,8 @@ It contains two main pages:
 ## 📁 File Structure
 
 portfolio/
-│── index.html
-│── electronics.html
-│── style.css
-│── Shreenanda S.pdf
-│── Shreenanda_Resume S.pdf
+  │── index.html
+  │── electronics.html
+  │── style.css
+  │── Shreenanda S.pdf
+  │── Shreenanda_Resume S.pdf
